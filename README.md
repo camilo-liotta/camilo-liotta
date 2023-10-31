@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning ... **MongoDB and Next.js v13.5**
+- 🌱 I’m currently learning ... **MongoDB and Next.js v14**
 - 😄 Employement ... **Open for opportunities**
 - 📫 How to reach me **camilo.liotta@icloud.com**
 <p align="center">
