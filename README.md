@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Camilo Liotta</h1>
-<h3 align="center">A passionate Argentinian web developer</h3>
 <img width="100%" align="right" alt="Github Image" src="https://github.com/camilo-liotta/camilo-liotta/assets/92744889/79009277-c03b-4976-9883-a495aa6985e9" />
 
-
-
-- 🌱 I’m currently learning ... **MongoDB and Next.js v14**
-- 😄 Employement ... **Open for opportunities**
-- 📫 How to reach me **camilo.liotta@icloud.com**
 <p align="center">
    <a href="https://www.linkedin.com/in/camiloliotta/">
     <img src="https://img.shields.io/badge/linkedin-camiloliotta-black">
